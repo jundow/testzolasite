@@ -7,6 +7,6 @@ template: "index.html"
 
 Markdownで書ける。
 
-- [] test
-- [] test
-- [] test
+- [ ] test
+- [ ] test
+- [ ] test
