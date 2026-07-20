@@ -12,6 +12,5 @@ build_search_index = true
 [markdown.highlighting]
 theme = "catppuccin-mocha"
 
-
 [extra]
 # Put all your custom variables here
